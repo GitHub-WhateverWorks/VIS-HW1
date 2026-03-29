@@ -35,4 +35,4 @@ During training, data augmentation, weight decay, label smoothing / focal loss e
 
 ### Performance Snapshot
 
-![alt text](image.png)
+![Competition Snapshot](images/results.png)
