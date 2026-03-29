@@ -19,7 +19,7 @@ BATCH_SIZE = 64
 NUM_WORKERS = 4
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-MODEL_PATH = "best_model_8733.pth"
+MODEL_PATH = "best_model.pth"
 CSV_PATH = "prediction_inf.csv"
 
 
